@@ -1,0 +1,16 @@
+{
+  "name": "respit",
+  "version": "0.0.0",
+  "scripts": {
+    "format": "prettier --write \"./**/*.{js,json,ts}\"",
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "prettier": "^3.0.3",
+    "typescript": "^5.2.2",
+    "vitest": "^0.34.6"
+  },
+  "volta": {
+    "node": "21.1.0"
+  }
+}
